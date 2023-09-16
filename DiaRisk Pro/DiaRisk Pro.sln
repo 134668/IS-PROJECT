@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiaRisk Pro", "DiaRisk Pro.csproj", "{11650CA0-6188-40CE-9432-32E7037282AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11650CA0-6188-40CE-9432-32E7037282AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11650CA0-6188-40CE-9432-32E7037282AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11650CA0-6188-40CE-9432-32E7037282AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11650CA0-6188-40CE-9432-32E7037282AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68E14F1F-D7A2-4A4A-A1EA-35DE53C988A5}
+	EndGlobalSection
+EndGlobal
