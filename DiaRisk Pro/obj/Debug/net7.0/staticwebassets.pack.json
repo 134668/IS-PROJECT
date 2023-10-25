@@ -1,287 +1,2547 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DiaRisk Pro.bundle.scp.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DiaRisk Pro.bundle.scp.css",
       "PackagePath": "staticwebassets\\DiaRisk Pro.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\bundles\\apexcharts.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\bundles\\apexcharts.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\bundles\\c3.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\bundles\\c3.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\bundles\\carousel.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\bundles\\carousel.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\bundles\\chartjs.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\bundles\\chartjs.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\bundles\\dataTables.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\bundles\\dataTables.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\bundles\\flot.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\bundles\\flot.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\bundles\\fullcalendar.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\bundles\\fullcalendar.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\bundles\\jvectormap1.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\bundles\\jvectormap1.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\bundles\\knobjs.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\bundles\\knobjs.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\bundles\\libscripts.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\bundles\\libscripts.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\bundles\\mainscripts.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\bundles\\mainscripts.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\bundles\\morris.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\bundles\\morris.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\bundles\\nestable.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\bundles\\nestable.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\bundles\\selectize.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\bundles\\selectize.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\bundles\\summernote.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\bundles\\summernote.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\bundles\\vendorscripts.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\bundles\\vendorscripts.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\fonts\\feather\\feather-webfont6cfa.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feather\\feather-webfont6cfa.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\fonts\\feather\\feather-webfont6cfa.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feather\\feather-webfont6cfa.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\fonts\\feather\\feather-webfont6cfa.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feather\\feather-webfont6cfa.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\fonts\\feather\\feather-webfont6cfa.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feather\\feather-webfont6cfa.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\fonts\\simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simple-Line-Icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\fonts\\simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simple-Line-Icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\fonts\\simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\fonts\\simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simple-Line-Icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\fonts\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\fonts\\weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\fonts\\weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\fonts\\weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\fonts\\weathericons-regular-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\weathericons-regular-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\Startup.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\Startup.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\crypto\\BTC.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\crypto\\BTC.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\crypto\\BTG.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\crypto\\BTG.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\crypto\\DASH.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\crypto\\DASH.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\crypto\\ETC.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\crypto\\ETC.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\crypto\\ETH.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\crypto\\ETH.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\crypto\\LTC.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\crypto\\LTC.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\crypto\\XRP.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\crypto\\XRP.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\crypto\\neo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\crypto\\neo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\crypto\\qtum.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\crypto\\qtum.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\crypto\\stellar.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\crypto\\stellar.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\details_close.html",
+      "PackagePath": "staticwebassets\\assets\\images\\details_close.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\details_open.html",
+      "PackagePath": "staticwebassets\\assets\\images\\details_open.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\ecommerce\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\ecommerce\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\ecommerce\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\ecommerce\\13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\ecommerce\\14.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\ecommerce\\15.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\ecommerce\\16.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\ecommerce\\17.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\ecommerce\\18.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\ecommerce\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\ecommerce\\8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\ecommerce\\9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ad.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ad.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ae.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ae.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\af.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\af.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ag.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ag.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ai.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ai.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\al.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\al.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\am.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\am.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ao.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ao.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\aq.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\aq.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ar.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ar.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\as.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\as.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\at.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\at.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\au.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\au.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\aw.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\aw.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ax.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ax.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\az.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\az.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ba.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ba.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\bb.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\bb.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\bd.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\bd.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\be.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\be.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\bf.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\bf.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\bg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\bh.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\bh.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\bi.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\bi.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\bj.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\bj.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\bl.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\bl.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\bm.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\bm.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\bn.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\bn.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\bo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\bo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\bq.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\bq.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\br.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\br.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\bs.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\bs.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\bt.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\bt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\bv.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\bv.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\bw.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\bw.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\by.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\by.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\bz.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\bz.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ca.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ca.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\cc.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\cc.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\cd.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\cd.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\cf.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\cf.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\cg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\cg.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ch.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ch.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ci.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ci.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ck.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ck.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\cl.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\cl.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\cm.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\cm.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\cn.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\cn.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\co.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\co.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\cr.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\cr.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\cu.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\cu.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\cv.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\cv.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\cw.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\cw.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\cx.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\cx.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\cy.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\cy.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\cz.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\cz.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\de.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\de.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\dj.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\dj.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\dk.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\dk.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\dm.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\dm.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\do.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\do.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\dz.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\dz.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ec.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ec.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ee.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ee.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\eg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\eg.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\eh.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\eh.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\er.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\er.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\es.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\es.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\et.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\et.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\eu.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\eu.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\fi.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\fi.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\fj.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\fj.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\fk.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\fk.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\fm.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\fm.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\fo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\fo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\fr.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\fr.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ga.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ga.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\gb-eng.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\gb-eng.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\gb-nir.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\gb-nir.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\gb-sct.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\gb-sct.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\gb-wls.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\gb-wls.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\gb.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\gb.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\gd.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\gd.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ge.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ge.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\gf.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\gf.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\gg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\gg.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\gh.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\gh.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\gi.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\gi.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\gl.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\gl.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\gm.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\gm.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\gn.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\gn.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\gp.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\gp.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\gq.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\gq.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\gr.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\gr.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\gs.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\gs.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\gt.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\gt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\gu.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\gu.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\gw.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\gw.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\gy.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\gy.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\hk.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\hk.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\hm.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\hm.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\hn.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\hn.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\hr.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\hr.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ht.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ht.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\hu.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\hu.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\id.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\id.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ie.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ie.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\il.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\il.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\im.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\im.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\in.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\in.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\io.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\io.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\iq.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\iq.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ir.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ir.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\is.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\is.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\it.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\it.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\je.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\je.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\jm.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\jm.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\jo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\jo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\jp.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\jp.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ke.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ke.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\kg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\kg.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\kh.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\kh.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ki.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ki.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\km.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\km.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\kn.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\kn.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\kp.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\kp.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\kr.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\kr.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\kw.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\kw.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ky.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ky.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\kz.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\kz.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\la.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\la.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\lb.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\lb.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\lc.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\lc.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\li.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\li.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\lk.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\lk.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\lr.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\lr.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ls.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ls.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\lt.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\lt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\lu.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\lu.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\lv.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\lv.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ly.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ly.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ma.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ma.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\mc.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\mc.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\md.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\md.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\me.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\me.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\mf.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\mf.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\mg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\mg.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\mh.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\mh.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\mk.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\mk.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ml.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ml.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\mm.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\mm.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\mn.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\mn.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\mo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\mo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\mp.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\mp.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\mq.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\mq.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\mr.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\mr.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ms.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ms.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\mt.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\mt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\mu.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\mu.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\mv.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\mv.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\mw.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\mw.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\mx.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\mx.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\my.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\my.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\mz.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\mz.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\na.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\na.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\nc.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\nc.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ne.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ne.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\nf.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\nf.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ng.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ng.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ni.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ni.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\nl.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\nl.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\no.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\no.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\np.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\np.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\nr.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\nr.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\nu.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\nu.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\nz.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\nz.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\om.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\om.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\pa.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\pa.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\pe.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\pe.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\pf.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\pf.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\pg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\pg.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ph.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ph.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\pk.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\pk.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\pl.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\pl.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\pm.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\pm.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\pn.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\pn.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\pr.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\pr.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ps.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ps.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\pt.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\pt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\pw.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\pw.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\py.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\py.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\qa.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\qa.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\re.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\re.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ro.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ro.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\rs.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\rs.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ru.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ru.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\rw.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\rw.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\sa.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\sa.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\sb.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\sb.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\sc.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\sc.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\sd.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\sd.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\se.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\se.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\sg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\sg.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\sh.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\sh.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\si.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\si.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\sj.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\sj.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\sk.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\sk.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\sl.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\sl.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\sm.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\sm.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\sn.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\sn.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\so.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\so.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\sr.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\sr.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ss.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ss.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\st.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\st.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\sv.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\sv.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\sx.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\sx.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\sy.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\sy.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\sz.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\sz.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\tc.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\tc.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\td.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\td.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\tf.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\tf.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\tg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\tg.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\th.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\th.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\tj.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\tj.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\tk.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\tk.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\tl.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\tl.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\tm.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\tm.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\tn.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\tn.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\to.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\to.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\tr.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\tr.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\tt.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\tt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\tv.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\tv.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\tw.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\tw.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\tz.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\tz.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ua.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ua.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ug.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ug.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\um.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\um.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\un.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\un.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\us.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\us.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\uy.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\uy.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\uz.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\uz.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\va.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\va.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\vc.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\vc.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ve.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ve.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\vg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\vg.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\vi.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\vi.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\vn.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\vn.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\vu.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\vu.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\wf.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\wf.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ws.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ws.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\ye.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ye.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\yt.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\yt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\za.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\za.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\zm.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\zm.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\flags\\zw.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\zw.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\gallery\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\gallery\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\gallery\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\gallery\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\gallery\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\gallery\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\gallery\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\gallery\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\gallery\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\gallery\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\handshake.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\handshake.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\lg\\avatar4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\lg\\avatar4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\logo-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\2checkout-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\2checkout-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\2checkout.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\2checkout.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\alipay-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\alipay-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\alipay.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\alipay.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\amazon-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\amazon-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\amazon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\amazon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\americanexpress-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\americanexpress-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\americanexpress.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\americanexpress.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\applepay-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\applepay-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\applepay.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\applepay.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\bancontact-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\bancontact-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\bancontact.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\bancontact.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\bitcoin-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\bitcoin-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\bitcoin.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\bitcoin.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\bitpay-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\bitpay-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\bitpay.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\bitpay.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\cirrus-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\cirrus-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\cirrus.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\cirrus.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\clickandbuy-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\clickandbuy-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\clickandbuy.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\clickandbuy.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\coinkite-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\coinkite-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\coinkite.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\coinkite.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\dinersclub-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\dinersclub-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\dinersclub.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\dinersclub.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\directdebit-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\directdebit-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\directdebit.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\directdebit.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\discover-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\discover-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\discover.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\discover.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\dwolla-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\dwolla-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\dwolla.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\dwolla.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\ebay-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\ebay-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\ebay.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\ebay.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\eway-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\eway-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\eway.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\eway.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\giropay-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\giropay-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\giropay.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\giropay.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\googlewallet-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\googlewallet-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\googlewallet.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\googlewallet.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\ingenico-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\ingenico-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\ingenico.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\ingenico.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\jcb-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\jcb-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\jcb.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\jcb.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\klarna-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\klarna-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\klarna.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\klarna.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\laser-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\laser-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\laser.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\laser.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\maestro-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\maestro-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\maestro.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\maestro.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\mastercard-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\mastercard-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\mastercard.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\mastercard.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\monero-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\monero-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\monero.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\monero.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\neteller-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\neteller-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\neteller.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\neteller.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\ogone-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\ogone-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\ogone.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\ogone.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\okpay-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\okpay-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\okpay.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\okpay.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\paybox-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\paybox-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\paybox.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\paybox.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\paymill-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\paymill-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\paymill.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\paymill.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\payone-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\payone-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\payone.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\payone.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\payoneer-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\payoneer-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\payoneer.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\payoneer.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\paypal-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\paypal-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\paypal.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\paypal.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\paysafecard-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\paysafecard-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\paysafecard.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\paysafecard.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\payu-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\payu-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\payu.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\payu.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\payza-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\payza-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\payza.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\payza.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\ripple-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\ripple-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\ripple.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\ripple.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\sage-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\sage-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\sage.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\sage.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\sepa-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\sepa-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\sepa.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\sepa.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\shopify-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\shopify-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\shopify.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\shopify.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\skrill-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\skrill-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\skrill.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\skrill.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\solo-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\solo-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\solo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\solo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\square-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\square-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\square.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\square.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\stripe-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\stripe-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\stripe.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\stripe.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\switch-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\switch-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\switch.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\switch.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\ukash-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\ukash-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\ukash.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\ukash.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\unionpay-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\unionpay-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\unionpay.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\unionpay.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\verifone-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\verifone-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\verifone.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\verifone.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\verisign-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\verisign-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\verisign.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\verisign.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\visa-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\visa-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\visa.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\visa.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\webmoney-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\webmoney-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\webmoney.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\webmoney.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\westernunion-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\westernunion-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\westernunion.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\westernunion.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\worldpay-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\worldpay-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\payments\\worldpay.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payments\\worldpay.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\sm\\avatar1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sm\\avatar1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\sm\\avatar10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sm\\avatar10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\sm\\avatar2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sm\\avatar2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\sm\\avatar3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sm\\avatar3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\sm\\avatar4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sm\\avatar4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\sm\\avatar5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sm\\avatar5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\sm\\avatar6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sm\\avatar6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\sm\\avatar7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sm\\avatar7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\sm\\avatar8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sm\\avatar8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\sm\\avatar9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sm\\avatar9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\user.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\xs\\avatar1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\xs\\avatar1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\xs\\avatar10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\xs\\avatar10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\xs\\avatar11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\xs\\avatar11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\xs\\avatar2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\xs\\avatar2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\xs\\avatar3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\xs\\avatar3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\xs\\avatar4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\xs\\avatar4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\xs\\avatar5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\xs\\avatar5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\xs\\avatar6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\xs\\avatar6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\xs\\avatar7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\xs\\avatar7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\xs\\avatar8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\xs\\avatar8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\images\\xs\\avatar9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\xs\\avatar9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\chart\\apex.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\apex.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\chart\\c3.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\c3.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\chart\\chartjs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\chartjs.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\chart\\flot.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\flot.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\chart\\knobjs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\knobjs.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\chart\\morris.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\morris.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\chart\\sparkline.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\sparkline.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\chart\\widgetchart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\widgetchart.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\form\\form-advanced.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form\\form-advanced.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\form\\parsleyjs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form\\parsleyjs.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\form\\wizard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form\\wizard.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\map\\map.js",
+      "PackagePath": "staticwebassets\\assets\\js\\map\\map.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\maps\\google.js",
+      "PackagePath": "staticwebassets\\assets\\js\\maps\\google.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\page\\analytics.js",
+      "PackagePath": "staticwebassets\\assets\\js\\page\\analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\page\\auth.js",
+      "PackagePath": "staticwebassets\\assets\\js\\page\\auth.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\page\\calendar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\page\\calendar.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\page\\chat-list.js",
+      "PackagePath": "staticwebassets\\assets\\js\\page\\chat-list.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\page\\ecommerce.js",
+      "PackagePath": "staticwebassets\\assets\\js\\page\\ecommerce.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\page\\ecommercechart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\page\\ecommercechart.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\page\\email.js",
+      "PackagePath": "staticwebassets\\assets\\js\\page\\email.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\page\\image-gallery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\page\\image-gallery.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\page\\range-sliders.js",
+      "PackagePath": "staticwebassets\\assets\\js\\page\\range-sliders.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\page\\sortable-nestable.js",
+      "PackagePath": "staticwebassets\\assets\\js\\page\\sortable-nestable.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\page\\summernote.js",
+      "PackagePath": "staticwebassets\\assets\\js\\page\\summernote.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\page\\sweetalert.js",
+      "PackagePath": "staticwebassets\\assets\\js\\page\\sweetalert.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\page\\teamborad.js",
+      "PackagePath": "staticwebassets\\assets\\js\\page\\teamborad.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\page\\treding.js",
+      "PackagePath": "staticwebassets\\assets\\js\\page\\treding.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\page\\w-statistics.js",
+      "PackagePath": "staticwebassets\\assets\\js\\page\\w-statistics.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\table\\datatable.js",
+      "PackagePath": "staticwebassets\\assets\\js\\table\\datatable.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\table\\editable.js",
+      "PackagePath": "staticwebassets\\assets\\js\\table\\editable.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\js\\vendors\\selectize.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendors\\selectize.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\animate-css\\vivify.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\animate-css\\vivify.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\bootstrap-colorpicker\\css\\bootstrap-colorpicker.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-colorpicker\\css\\bootstrap-colorpicker.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\bootstrap-colorpicker\\img\\bootstrap-colorpicker\\alpha-horizontal.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-colorpicker\\img\\bootstrap-colorpicker\\alpha-horizontal.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\bootstrap-colorpicker\\img\\bootstrap-colorpicker\\alpha.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-colorpicker\\img\\bootstrap-colorpicker\\alpha.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\bootstrap-colorpicker\\img\\bootstrap-colorpicker\\hue-horizontal.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-colorpicker\\img\\bootstrap-colorpicker\\hue-horizontal.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\bootstrap-colorpicker\\img\\bootstrap-colorpicker\\hue.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-colorpicker\\img\\bootstrap-colorpicker\\hue.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\bootstrap-colorpicker\\img\\bootstrap-colorpicker\\saturation.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-colorpicker\\img\\bootstrap-colorpicker\\saturation.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\bootstrap-colorpicker\\js\\bootstrap-colorpicker.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-colorpicker\\js\\bootstrap-colorpicker.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\bootstrap-datepicker\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-datepicker\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\bootstrap-multiselect\\bootstrap-multiselect.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-multiselect\\bootstrap-multiselect.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\bootstrap-multiselect\\bootstrap-multiselect.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-multiselect\\bootstrap-multiselect.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\chartjs\\chartist-plugin-tooltip.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\chartjs\\chartist-plugin-tooltip.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\chartjs\\chartist.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\chartjs\\chartist.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\charts-c3\\plugin.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\charts-c3\\plugin.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\datatable\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatable\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\datatable\\fixedeader\\dataTables.fixedcolumns.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatable\\fixedeader\\dataTables.fixedcolumns.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\datatable\\fixedeader\\dataTables.fixedheader.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatable\\fixedeader\\dataTables.fixedheader.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\dropify\\css\\dropify.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\dropify\\css\\dropify.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\dropify\\fonts\\dropify.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\dropify\\fonts\\dropify.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\dropify\\fonts\\dropify.svg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\dropify\\fonts\\dropify.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\dropify\\fonts\\dropify.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\dropify\\fonts\\dropify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\dropify\\fonts\\dropify.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\dropify\\fonts\\dropify.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\dropify\\js\\dropify.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\dropify\\js\\dropify.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\echart\\echarts.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\echart\\echarts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\editable\\ditabletable.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\editable\\ditabletable.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\assets\\plugins\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\fonts\\fontawesome-webfont3e6e.html",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fonts\\fontawesome-webfont3e6e.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\fullcalendar\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\gmaps\\gmaps.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\gmaps\\gmaps.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\jquery-inputmask\\jquery.inputmask.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-inputmask\\jquery.inputmask.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\jquery-steps\\jquery.steps.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-steps\\jquery.steps.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\jquery-steps\\jquery.steps.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-steps\\jquery.steps.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\jquery.maskedinput\\jquery.maskedinput.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery.maskedinput\\jquery.maskedinput.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\jvectormap\\jvectormap-2.0.3.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jvectormap\\jvectormap-2.0.3.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\light-gallery\\css\\lightgallery.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\light-gallery\\css\\lightgallery.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\light-gallery\\fonts\\lgd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\light-gallery\\fonts\\lgd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\light-gallery\\fonts\\lgd641.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\light-gallery\\fonts\\lgd641.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\light-gallery\\fonts\\lgd641.svg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\light-gallery\\fonts\\lgd641.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\light-gallery\\fonts\\lgd641.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\light-gallery\\fonts\\lgd641.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\light-gallery\\fonts\\lgd641.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\light-gallery\\fonts\\lgd641.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\light-gallery\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\plugins\\light-gallery\\img\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\light-gallery\\img\\video-play.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\light-gallery\\img\\video-play.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\light-gallery\\img\\vimeo-play.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\light-gallery\\img\\vimeo-play.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\light-gallery\\img\\youtube-play.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\light-gallery\\img\\youtube-play.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\light-gallery\\js\\lightgallery-all.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\light-gallery\\js\\lightgallery-all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\material-rangeslider\\mrange.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\material-rangeslider\\mrange.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\material-rangeslider\\style.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\material-rangeslider\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\morrisjs\\morris.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\morrisjs\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\multi-select\\css\\multi-select.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\multi-select\\css\\multi-select.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\multi-select\\js\\jquery.multi-select.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\multi-select\\js\\jquery.multi-select.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\nestable\\jquery-nestable.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\nestable\\jquery-nestable.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\parsleyjs\\css\\parsley.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\parsleyjs\\css\\parsley.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\parsleyjs\\js\\parsley.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\parsleyjs\\js\\parsley.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\rangeslider\\css\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\rangeslider\\css\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\rangeslider\\css\\ion.rangeSlider.skinFlat.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\rangeslider\\css\\ion.rangeSlider.skinFlat.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\rangeslider\\img\\sprite-skin-flat.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\rangeslider\\img\\sprite-skin-flat.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\rangeslider\\js\\ion.rangeSlider.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\rangeslider\\js\\ion.rangeSlider.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\roundslider\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\roundslider\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\roundslider\\roundslider.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\roundslider\\roundslider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\roundslider\\roundslider.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\roundslider\\roundslider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\roundslider\\style.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\roundslider\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\summernote\\dist\\font\\summernoted41d.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\summernote\\dist\\font\\summernoted41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\summernote\\dist\\font\\summernotef534.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\summernote\\dist\\font\\summernotef534.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\summernote\\dist\\font\\summernotef534.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\summernote\\dist\\font\\summernotef534.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\summernote\\dist\\font\\summernotef534.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\summernote\\dist\\font\\summernotef534.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\summernote\\dist\\summernote.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\summernote\\dist\\summernote.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\assets\\plugins\\sweetalert\\sweetalert.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\sweetalert\\sweetalert.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\qrcodejs\\.gitignore",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\qrcodejs\\.gitignore",
       "PackagePath": "staticwebassets\\lib\\qrcodejs\\.gitignore"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\qrcodejs\\LICENSE",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\qrcodejs\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\qrcodejs"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\qrcodejs\\README.md",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\qrcodejs\\README.md",
       "PackagePath": "staticwebassets\\lib\\qrcodejs\\README.md"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\qrcodejs\\bower.json",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\qrcodejs\\bower.json",
       "PackagePath": "staticwebassets\\lib\\qrcodejs\\bower.json"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\qrcodejs\\index-svg.html",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\qrcodejs\\index-svg.html",
       "PackagePath": "staticwebassets\\lib\\qrcodejs\\index-svg.html"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\qrcodejs\\index.html",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\qrcodejs\\index.html",
       "PackagePath": "staticwebassets\\lib\\qrcodejs\\index.html"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\qrcodejs\\index.svg",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\qrcodejs\\index.svg",
       "PackagePath": "staticwebassets\\lib\\qrcodejs\\index.svg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\qrcodejs\\jquery.min.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\qrcodejs\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\qrcodejs\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\qrcodejs\\qrcode.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\qrcodejs\\qrcode.js",
       "PackagePath": "staticwebassets\\lib\\qrcodejs\\qrcode.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\PROJECT\\DiaRisk Pro\\wwwroot\\lib\\qrcodejs\\qrcode.min.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\IS_PROJECT\\DiaRisk Pro\\wwwroot\\lib\\qrcodejs\\qrcode.min.js",
       "PackagePath": "staticwebassets\\lib\\qrcodejs\\qrcode.min.js"
     },
     {

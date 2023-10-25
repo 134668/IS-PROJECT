@@ -1,50 +1,273 @@
-﻿<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - DiaRisk_Pro</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/DiaRisk_Pro.styles.css" asp-append-version="true" />
-</head>
-<body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">DiaRisk_Pro</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+﻿ <!doctype html>
+            <html lang="en" dir="ltr">
+
+
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1">
+                <meta http-equiv="X-UA-Compatible" content="ie=edge">
+                <link rel="icon" href="favicon.ico" type="image/x-icon" />
+                <title>:: DiaRisk :: Form Elements</title>
+                <!-- Bootstrap Core and Font Icon -->
+                <link rel="stylesheet" href="~/assets/plugins/bootstrap/css/bootstrap.min.css" />
+                <link rel="stylesheet" href="~/assets/plugins/animate-css/vivify.min.css" />
+                <link rel="stylesheet" href="~/assets/plugins/font-awesome/css/font-awesome.min.css">
+                <!-- Core css -->
+                <link rel="stylesheet" href="~/assets/css/main.css" />
+            </head>
+
+            <body class="theme-blush">
+                <!-- Page Loader -->
+                <div class="page-loader-wrapper">
+                    <div class="loader">
+                        <svg class="avatar" viewBox="-212 327.6 186.8 139.4">
+                            <rect x="-86.1" y="379" transform="matrix(0.6974 -0.7167 0.7167 0.6974 -294.7533 78.6828)" width="63.8" height="18.8" />
+                            <rect x="-102.1" y="363.4" transform="matrix(-0.6974 0.7167 -0.7167 -0.6974 148.0318 683.0126)" width="63.8" height="18.8" />
+                            <rect x="-95.8" y="325.1" transform="matrix(0.7167 0.6974 -0.6974 0.7167 224.5188 161.3834)" width="18.8" height="63.8" />
+                            <rect x="-214.9" y="349.4" transform="matrix(0.6974 -0.7167 0.7167 0.6974 -312.5134 -22.5826)" width="63.8" height="18.8" />
+                            <rect x="-198.8" y="365" transform="matrix(0.6974 -0.7167 0.7167 0.6974 -318.8627 -6.2894)" width="63.8" height="18.8" />
+                            <rect x="-182.7" y="380.8" transform="matrix(0.6974 -0.7167 0.7167 0.6974 -325.2842 10.0315)" width="63.8" height="18.8" />
+                            <rect x="-165.7" y="428.6" transform="matrix(-0.7167 -0.6974 0.6974 -0.7167 -535.1799 658.6196)" width="63.8" height="18.8" />
+                            <rect x="-150" y="412.5" transform="matrix(-0.7167 -0.6974 0.6974 -0.7167 -496.95 641.8856)" width="63.8" height="18.8" />
+                            <rect x="-134.3" y="396.3" transform="matrix(-0.7167 -0.6974 0.6974 -0.7167 -458.7179 625.1357)" width="63.8" height="18.8" />
+                        </svg>
+                    </div>
+                </div>
+
+                <div id="layout-block">
+                    <!-- Navigation -->
+                    <div class="navigation navbar navbar-light justify-content-center px-3 px-lg-2 py-2 py-md-3  ver-menu">
+                        <!-- Brand -->
+                        <a asp-controller="home" asp-action="index" class="mb-2 brand-icon">
+                            <svg class="avatar" viewBox="-212 327.6 186.8 139.4">
+                                <rect x="-86.1" y="379" transform="matrix(0.6974 -0.7167 0.7167 0.6974 -294.7533 78.6828)" width="63.8" height="18.8" />
+                                <rect x="-102.1" y="363.4" transform="matrix(-0.6974 0.7167 -0.7167 -0.6974 148.0318 683.0126)" width="63.8" height="18.8" />
+                                <rect x="-95.8" y="325.1" transform="matrix(0.7167 0.6974 -0.6974 0.7167 224.5188 161.3834)" width="18.8" height="63.8" />
+                                <rect x="-214.9" y="349.4" transform="matrix(0.6974 -0.7167 0.7167 0.6974 -312.5134 -22.5826)" width="63.8" height="18.8" />
+                                <rect x="-198.8" y="365" transform="matrix(0.6974 -0.7167 0.7167 0.6974 -318.8627 -6.2894)" width="63.8" height="18.8" />
+                                <rect x="-182.7" y="380.8" transform="matrix(0.6974 -0.7167 0.7167 0.6974 -325.2842 10.0315)" width="63.8" height="18.8" />
+                                <rect x="-165.7" y="428.6" transform="matrix(-0.7167 -0.6974 0.6974 -0.7167 -535.1799 658.6196)" width="63.8" height="18.8" />
+                                <rect x="-150" y="412.5" transform="matrix(-0.7167 -0.6974 0.6974 -0.7167 -496.95 641.8856)" width="63.8" height="18.8" />
+                                <rect x="-134.3" y="396.3" transform="matrix(-0.7167 -0.6974 0.6974 -0.7167 -458.7179 625.1357)" width="63.8" height="18.8" />
+                            </svg>
+                        </a>
+
+                        <!-- Menu: icon -->
+                        <ul class="nav navbar-nav flex-row flex-lg-column flex-grow-1 justify-content-start align-items-center py-2 py-lg-0">
+                            <!-- Create group -->
+                            <li class="nav-item">
+                                <a class="nav-link p-2 p-lg-2 d-block d-xl-none menu-toggle" href="#">
+                                    <i class="fa fa-bars"></i>
+                                </a>
+                            </li>
+                            
+                        </ul>
+                    </div>
+
+                    <!-- sidebar -->
+                    <div class="sidebar bg-primary px-4 py-2 py-md-3">
+                        <a class="nav-link p-2 p-lg-2 menu-toggle close-btn-nav" href="#"><i class="fa fa-close"></i></a>
+
+                        <div class="d-flex flex-column h-100">
+                            <h4 class="sidebar-title mb-2 mt-1">D<span>iaRisk</span></h4>
+                            <!-- Menu: main ul -->
+                @if (User.Identity.IsAuthenticated && User.IsInRole("SuperAdmin"))
+                {
+                    <ul class="menu-list flex-grow-1">
+                        <li class="divider mt-2 py-2 border-top"><small>MAIN</small></li>
+                        <li class="collapsed">
+                            <a class="m-link" data-toggle="collapse" data-target="#dashbord-Pages" href="#">
+                                <i class="fa fa-dashboard"></i>
+                                <span>Dashboard</span><span class="arrow fa fa-angle-down ml-auto text-right"></span>
+                            </a>
+                            <ul class="sub-menu collapse" id="dashbord-Pages">
+                                <li><a class="ms-link" asp-controller="Patients" asp-action="index">Patients</a></li>
+                                <li><a class="ms-link" asp-controller="Doctors" asp-action="index">Doctors</a></li>
+                            </ul>
                         </li>
                     </ul>
-                    <partial name="_LoginPartial" />
-                </div>
-            </div>
-        </nav>
-    </header>
-    <div class="container">
-        <main role="main" class="pb-3">
+                }
+                else
+                {
+                    <ul class="menu-list flex-grow-1">
+                        <li class="divider mt-2 py-2 border-top"><small>MAIN</small></li>
+                        <li class="collapsed">
+                            <a class="m-link" data-toggle="collapse" data-target="#dashbord-Pages" href="#">
+                                <i class="fa fa-dashboard"></i>
+                                <span>Dashboard</span><span class="arrow fa fa-angle-down ml-auto text-right"></span>
+                            </a>
+                            <ul class="sub-menu collapse" id="dashbord-Pages">
+                                <li><a class="ms-link" asp-controller="home" asp-action="index">Home</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                }
+                
+
+                            <!-- Menu: menu collepce btn -->
+                            <button type="button" class="btn btn-link sidebar-mini-btn text-light">
+                                <span class="ml-2"><i class="fa fa-arrow-left"></i></span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Main Setting menu -->
+                    <div id="rightsidebar" class="right_sidebar">
+                        <div class="setting_div">
+                            <a href="#" class="settingbar"><i class="fa fa-times-circle fa-spin"></i></a>
+                        </div>
+                        <div class="sidebar-scroll">
+                            <div class="card">
+                                <div class="card-header border-bottom pb-3">
+                                    <div class="card-title">Settings</div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header">
+                                    <h3 class="card-title">Color Skins</h3>
+                                </div>
+                                <div class="card-body">
+                                    <ul class="choose-skin list-unstyled">
+
+                                        <li data-theme="azure">
+                                            <div class="azure"></div>
+                                        </li>
+                                        <li data-theme="indigo">
+                                            <div class="indigo"></div>
+                                        </li>
+                                        <li data-theme="yellow">
+                                            <div class="yellow"></div>
+                                        </li>
+                                        <li data-theme="orange">
+                                            <div class="orange"></div>
+                                        </li>
+                                        <li data-theme="green">
+                                            <div class="green"></div>
+                                        </li>
+                                        <li data-theme="cyan">
+                                            <div class="cyan"></div>
+                                        </li>
+                                        <li data-theme="blush" class="active">
+                                            <div class="blush"></div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header">
+                                    <h3 class="card-title">Light/Dark & Contrast Layout</h3>
+                                </div>
+                                <div class="card-body">
+                                    <ul class="list-unstyled mb-0">
+                                        <li class="d-flex align-items-center mb-2">
+                                            <label class="toggle-switch theme-switch">
+                                                <input type="checkbox">
+                                                <span class="toggle-switch-slider"></span>
+                                            </label>
+                                            <span class="ml-3">Enable Dark Mode!</span>
+                                        </li>
+                                        <li class="d-flex align-items-center mb-2">
+                                            <label class="toggle-switch theme-high-contrast">
+                                                <input type="checkbox">
+                                                <span class="toggle-switch-slider"></span>
+                                            </label>
+                                            <span class="ml-3">Enable High Contrast</span>
+                                        </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header">
+                                    <h3 class="card-title">General Setting</h3>
+                                </div>
+                                <div class="card-body">
+                                    <ul class="setting-list list-unstyled">
+                                        <li>
+                                            <label class="custom-switch">
+                                                <input type="checkbox" name="custom-switch-checkbox" class="custom-switch-input"
+                                                       id="theme-switch">
+                                                <span class="custom-switch-indicator"></span>
+                                                <span class="custom-switch-description">Report Panel Usage</span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="custom-switch">
+                                                <input type="checkbox" name="custom-switch-checkbox" class="custom-switch-input"
+                                                       checked>
+                                                <span class="custom-switch-indicator"></span>
+                                                <span class="custom-switch-description">Email Redirect</span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="custom-switch">
+                                                <input type="checkbox" name="custom-switch-checkbox" class="custom-switch-input"
+                                                       checked>
+                                                <span class="custom-switch-indicator"></span>
+                                                <span class="custom-switch-description">Notifications</span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="custom-switch">
+                                                <input type="checkbox" name="custom-switch-checkbox" class="custom-switch-input">
+                                                <span class="custom-switch-indicator"></span>
+                                                <span class="custom-switch-description">Auto Updates</span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="custom-switch">
+                                                <input type="checkbox" name="custom-switch-checkbox" class="custom-switch-input">
+                                                <span class="custom-switch-indicator"></span>
+                                                <span class="custom-switch-description">Offline</span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="custom-switch">
+                                                <input type="checkbox" name="custom-switch-checkbox" class="custom-switch-input">
+                                                <span class="custom-switch-indicator"></span>
+                                                <span class="custom-switch-description">Location Permission</span>
+                                            </label>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header">
+                                    <h3 class="card-title">Server Detail</h3>
+                                </div>
+                                <div class="card-body">
+                                    <div class="d-flex justify-content-between">
+                                        <div>
+                                            <h5 class="mb-0">Server</h5>
+                                            <small class="small">6% higher than last month</small>
+                                        </div>
+                                        <div class="text-right">
+                                            <h2 class="mb-0">62%</h2>
+                                            <small class="info">of 1Tb</small>
+                                        </div>
+                                    </div>
+                                    <div class="progress mt-3">
+                                        <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="62" aria-valuemin="0"
+                                             aria-valuemax="100" style="width: 62%;"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
             @RenderBody()
-        </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2023 - DiaRisk_Pro - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        </div>
-    </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
+    <!-- Javascript -->
+    <script src="~/assets/bundles/libscripts.bundle.js"></script>
+    <script src="~/assets/bundles/vendorscripts.bundle.js"></script>
+
+    <!-- page vendor js file -->
+    <script src="~/assets/bundles/selectize.bundle.js"></script>
+
+    <!-- page js file -->
+    <script src="~/assets/bundles/mainscripts.bundle.js"></script>
+        <script src="~/assets/js/vendors/selectize.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

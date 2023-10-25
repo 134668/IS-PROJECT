@@ -4,35 +4,66 @@
     ViewData["Title"] = "Two-factor authentication";
 }
 
-<h1>@ViewData["Title"]</h1>
-<hr />
-<p>Your login is protected with an authenticator app. Enter your authenticator code below.</p>
-<div class="row">
-    <div class="col-md-4">
-        <form method="post" asp-route-returnUrl="@Model.ReturnUrl">
-            <input asp-for="RememberMe" type="hidden" />
-            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
-            <div class="form-floating mb-3">
-                <input asp-for="Input.TwoFactorCode" class="form-control" autocomplete="off" />
-                <label asp-for="Input.TwoFactorCode" class="form-label"></label>
-                <span asp-validation-for="Input.TwoFactorCode" class="text-danger"></span>
+<!doctype html>
+<html lang="en" dir="ltr">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <title>:: Diarisk Pro :: Login</title>
+    <!-- Bootstrap Core and Font Icon -->
+    <link rel="stylesheet" href="~/assets/plugins/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/assets/plugins/animate-css/vivify.min.css" />
+    <link rel="stylesheet" href="~/assets/plugins/font-awesome/css/font-awesome.min.css">
+    <!-- Core css -->
+    <link rel="stylesheet" href="~/assets/css/main.css" />
+</head>
+
+<body class="theme-blush">
+    <!-- main content-->
+    <div class="auth">
+        <div class="container">
+            <div class="forms-container">
+                <div class="signin-signup">
+                    <form method="post" asp-route-returnUrl="@Model.ReturnUrl">
+                        <h2 class="title">2FA Auth</h2>
+                        <div class="input-field">
+                            <i class="fa fa-envelope"></i>
+                            <input asp-for="Input.TwoFactorCode" autocomplete="firstname" placeholder="Code" aria-required="true" />
+                        </div>
+                        <button type="submit" class="btn">Verify</button>
+                    </form>
+                </div>
             </div>
-            <div class="checkbox mb-3">
-                <label asp-for="Input.RememberMachine" class="form-label">
-                    <input asp-for="Input.RememberMachine" />
-                    @Html.DisplayNameFor(m => m.Input.RememberMachine)
-                </label>
+
+            <div class="panels-container">
+                <div class="panel left-panel">
+                    <div class="content">
+                        <h2><b>DiaRisk Pro</b></h2>
+                    </div>
+                </div>
+                <div class="panel right-panel">
+                    <div class="content">
+                        <h2><b>DiaRisk Pro</b></h2>
+
+                    </div>
+                </div>
             </div>
-            <div>
-                <button type="submit" class="w-100 btn btn-lg btn-primary">Log in</button>
-            </div>
-        </form>
+        </div>
     </div>
-</div>
-<p>
-    Don't have access to your authenticator device? You can
-    <a id="recovery-code-login" asp-page="./LoginWithRecoveryCode" asp-route-returnUrl="@Model.ReturnUrl">log in with a recovery code</a>.
-</p>
+
+    <script src="~/assets/bundles/libscripts.bundle.js"></script>
+    <script src="~/assets/js/page/auth.js"></script>
+</body>
+
+</html>
+
+
+
+
 
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />

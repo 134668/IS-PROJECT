@@ -12,5 +12,6 @@ namespace DiaRisk_Pro.Data
         }
 
         public DbSet<AppUser> AppUsers { get; set; }
+        public DbSet<Patient> Patients { get; set; }
     }
 }

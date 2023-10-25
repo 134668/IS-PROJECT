@@ -1,4 +1,5 @@
 using DiaRisk_Pro.Data;
+using DiaRisk_Pro.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -10,9 +11,15 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-    .AddEntityFrameworkStores<ApplicationDbContext>();
+builder.Services.AddDefaultIdentity<AppUser>(options => {
+    options.SignIn.RequireConfirmedAccount = true;
+}).AddRoles<AppUserRole>().AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
+
+
 builder.Services.AddControllersWithViews();
+
+
+
 
 var app = builder.Build();
 
